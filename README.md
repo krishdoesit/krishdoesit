@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krish Patel
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning c++, node.js, SQL
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
